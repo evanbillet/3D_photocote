@@ -8,7 +8,7 @@ import Viewer from "./robot"
 =======
 import Cannon from "./simple physics demo with debug bounds"
 import Shadermaterial from "./Shadermaterials"
-
+import Watershader from "./Watershader"
 
 
 
@@ -24,7 +24,11 @@ export default function App() {
       <Viewer />
 =======
       <Shadermaterial />
+<<<<<<< HEAD
 >>>>>>> 40f74f8 (useful shaderMaterial)
+=======
+      <Watershader />
+>>>>>>> 2057945 (ocean-sun)
     </>
 =======
 export default function App() {
