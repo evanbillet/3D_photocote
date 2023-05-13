@@ -10,9 +10,7 @@ import Cannon from "./simple physics demo with debug bounds"
 import Shadermaterial from "./Shadermaterials"
 import Watershader from "./Watershader"
 import Edgegeometry from "./Edgegeometry"
-
-
-
+import Wave from "./Wave"
 
 >>>>>>> 40f74f8 (useful shaderMaterial)
 
@@ -32,7 +30,11 @@ export default function App() {
 >>>>>>> 2057945 (ocean-sun)
 =======
       <Edgegeometry />
+<<<<<<< HEAD
 >>>>>>> 4dcfbad (edge)
+=======
+      <Wave />
+>>>>>>> e15c8e4 (wavematerial)
     </>
 =======
 export default function App() {
