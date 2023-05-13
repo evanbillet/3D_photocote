@@ -11,6 +11,7 @@ import Shadermaterial from "./Shadermaterials"
 import Watershader from "./Watershader"
 import Edgegeometry from "./Edgegeometry"
 import Wave from "./Wave"
+<<<<<<< HEAD
 
 >>>>>>> 40f74f8 (useful shaderMaterial)
 
@@ -35,6 +36,14 @@ export default function App() {
 =======
       <Wave />
 >>>>>>> e15c8e4 (wavematerial)
+=======
+import { Interactivesplinescan } from "./Interactivesplinescan"
+import Imagegalery from "./Imagegalery"
+export default function App() {
+  return (
+    <>
+      <Imagegalery />
+>>>>>>> f9d8c40 (difficult com)
     </>
 =======
 export default function App() {
