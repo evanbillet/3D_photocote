@@ -9,7 +9,7 @@ import Viewer from "./robot"
 import Cannon from "./simple physics demo with debug bounds"
 import Shadermaterial from "./Shadermaterials"
 import Watershader from "./Watershader"
-
+import Edgegeometry from "./Edgegeometry"
 
 
 
@@ -28,7 +28,11 @@ export default function App() {
 >>>>>>> 40f74f8 (useful shaderMaterial)
 =======
       <Watershader />
+<<<<<<< HEAD
 >>>>>>> 2057945 (ocean-sun)
+=======
+      <Edgegeometry />
+>>>>>>> 4dcfbad (edge)
     </>
 =======
 export default function App() {
