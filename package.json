@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@headlessui/react": "^1.7.3",
+    "@headlessui/react": "^1.7.14",
     "@heroicons/react": "^1.0.6",
     "@pmndrs/branding": "^0.0.8",
     "@react-three/drei": "^9.32.11",
