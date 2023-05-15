@@ -6,7 +6,7 @@
     "@headlessui/react": "^1.7.3",
     "@heroicons/react": "^1.0.6",
     "@pmndrs/branding": "^0.0.8",
-    "@react-three/drei": "^9.32.11",
+    "@react-three/drei": "^9.65.5",
     "@react-three/fiber": "^8.8.8",
     "@splinetool/r3f-spline": "^1.0.2",
     "@testing-library/jest-dom": "^5.16.5",
